@@ -1,4 +1,0 @@
-POST-is a request method supported by HTTP that sends data to the server.
-.env code---
-SECRET=Thisisoursecrete.
- API_KEY=shkdgvkfvgfyiqafgswuoi
